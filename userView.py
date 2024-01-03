@@ -116,4 +116,3 @@ class UserView:
 if __name__ == "__main__":
     user_view = UserView()
     user_view.run()
-##nomejodan xddd
